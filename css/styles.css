@@ -363,6 +363,10 @@ ul {
 
 /* Icons-portfolio */
 
+.social-icon {
+    fill: #f4f4fd;
+}
+
 .social-list-icons {
     display: flex;
     gap: 24px;
@@ -387,6 +391,11 @@ ul {
 
 .social-icon-link:hover {
     background-color:  #404BBF;
+}
+
+.social-icon-link:active {
+    background-color:  #404BBF;
+
 }
 
 
